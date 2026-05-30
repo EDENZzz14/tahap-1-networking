@@ -1,7 +1,5 @@
 # Hybrid Campus-Core Interconnection with Network Hardening (Cisco Packet Tracer)
 
-![Network Topology](topology.png)
-
 ## 📝 Deskripsi Projek
 Projek ini mensimulasikan perancangan, konfigurasi, dan pengamanan arsitektur jaringan Enterprise berskala menengah. Topologi ini menghubungkan **Kantor Pusat (HQ)** yang memiliki segmentasi VLAN dan server internal dengan **Kantor Cabang (Branch)** melalui jalur WAN yang dikendalikan oleh **Router-ISP** simulasi. 
 
