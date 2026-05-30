@@ -1,8 +1,6 @@
 # tahap-1-networking
 # Hybrid Campus-Core Interconnection (Cisco Packet Tracer)
 
-![Network Topology](topology.png)
-
 ## 📝 Deskripsi Projek
 Projek ini mensimulasikan perancangan arsitektur jaringan Enterprise berskala menengah yang menghubungkan Kantor Pusat (HQ) dan Kantor Cabang (Branch) melalui jalur WAN (Router-ISP). Projek ini dirancang sebagai implementasi standar laboratorium CCNA.
 
