@@ -1,0 +1,25 @@
+                 [ SERVER HTTP ]      [ SERVER DNS ]
+                      |                    |
+                      +---------+----------+
+                                |
+                          [ SWITCH HQ ]
+                                |
+                                | (Kabel Straight-Thru via Sub-Interface)
+                                |
+                          [ ROUTER-HQ ] (Pusat)
+                                |
+                                | (Kabel Serial DCE)
+                                |
+                          [ ROUTER-ISP ] (Internet)
+                                |
+                                | (Kabel Serial DCE)
+                                |
+                        [ ROUTER-BRANCH ] (Cabang)
+                                |
+                                | (Kabel Straight-Thru)
+                                |
+                         [ SWITCH BRANCH ]
+                                |
+                      +---------+---------+
+                      |                   |
+                   [ PC-A ]            [ PC-B ]
